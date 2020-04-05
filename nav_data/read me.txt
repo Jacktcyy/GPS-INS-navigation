@@ -1,0 +1,35 @@
+NAV
+1.	时间戳
+2.	GPS测量经度
+3.	GPS测量纬度
+4.	GPS测量高度
+5.	气压计高度
+6.	Vgn 北向速度
+7.	Vge 东向速度
+8.	Vgd 地面速度
+9.	Accx 本体加速度
+10.	Accy
+11.	Accz
+12.	Gyrox 本体角速度
+13.	Gyroy
+14.	Gyroz
+15.	Magx 本体磁罗盘
+16.	Magy
+17.	Magz
+18.	GPS经度 解算后
+19.	GPS纬度 解算后
+20.	高度 解算后
+21.	Vgx 北向速度 解算后
+22.	Vgy 东向速度 解算后
+23.	Vgz 地向速度 解算后
+24.	Agx 北向加速度 解算后
+25.	Agy 东向加速度 解算后
+26.	Agz 地向加速度 解算后
+27.	Gyrox 本体角速度 解算后
+28.	Gyroy
+29.	Gyroz
+30.	Roll 滚转角
+31.	Pitch 俯仰角
+32.	Yaw 航向角
+33.	SateCnt GPS搜星数
+34.	FixMode GPS定位模
